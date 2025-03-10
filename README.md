@@ -11,7 +11,7 @@ Ziel ist es die grundlegenden Funktionen der elektrischen Energieerzeugung und -
 - Praktika 3: Drehstrom und Transformator
 - Praktika 4: Batterie
 
-Im folgenden, werden die einzelnen Teilbereiche näher erläutert. 
+Im Folgenden werden die Inhalte der Praktikumstermine genauer erläutert.
 
 ## Vorwort
 
