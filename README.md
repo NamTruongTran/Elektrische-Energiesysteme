@@ -64,7 +64,7 @@ Einige Bilder des Praktikums sind in den folgenden Darstellungen aufgeführt:
 
 #### Aufbau zur Ermittlung der Ankerspannung
 
-| <img src="Praktikum_2/Bilder/Aufbau.PNG" width="410">  
+| <img src="Praktikum_2/Bilder/Aufbau.png" width="410">  
 | :-------------------------------------------------------------------: | 
 
 ### Praktikum 3 - Drehstrom und Transformator
