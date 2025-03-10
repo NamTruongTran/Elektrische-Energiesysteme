@@ -100,3 +100,13 @@ Das Protkoll zu dem Versuch ist unter diesem Link verfügbar:
 [Google Drive](https://drive.google.com/file/d/1TnIrm9CvTk6CcS65H3k5A1AaY5hNZYhq/view?usp=sharing)
 
 Einige Ergebnisse sind in den folgenden Darstellungen aufgeführt:
+
+#### Versuchsaufbau Entladung eines Lithium-Ionen-Akkumulators
+
+| <img src="Praktikum_4/Bilder/Versuchsaufbau_Entladung.png" width="300"> | 
+| :------------------------------------------------------------------: |
+
+#### Spannungsverläufe Tiefsetzsteller mit Last R
+
+| <img src="Praktikum_4/Bilder/tiefsetzsteller.png" width="400"> | 
+| :------------------------------------------------------------------: |
